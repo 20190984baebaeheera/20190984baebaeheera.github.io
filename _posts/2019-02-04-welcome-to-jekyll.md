@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[Markdown]마크다운 문서 작성/ Typora 타이포라 사용법"
-summary: 마크다운 에디터인 타이포라(typora)를 사용하면 글 작성과 문법이 적용된 결과를 바로 확인하며 편리하게 문서작성이 가능합니다. 
-author: Byun Hee Ra
-date: '2020-10-12-3:03
+title:  ""Welcome to devlopr !"
+summary: Hello World ! This is a sample post
+author:John Doe
+date: '2019-05-22 14:35:23 +0530'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
