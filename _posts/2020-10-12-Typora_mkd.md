@@ -8,24 +8,7 @@ category: jekyll
 summary: "마크다운 에디터인 타이포라(typora)를 사용하면 글 작성과 문법이 적용된 결과를 바로 확인하며 편리하게 문서작성이 가능합니다." 
 keywords: using netlify cms with devlopr-jekyll, devlopr jekyll netlify cms, how to use netlify cms
 permalink:https:/20190984baebaeheera.github.io/#/
-```
----
-title: "Page Not Found"
-excerpt: "Page not found. Your pixels are in another canvas."
-permalink: /404.html
-author_profile: false
----
 
-요청하신 페이지를 찾을 수 없습니다.
-
-<script>
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = 'https://devinlife.com'
-</script>
-<script src="https://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
-</script>
-```
----
 # **타이포라**
 
  [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)을  다루는 플랫폼 중 타이포라가 가장 대중적입니다.
